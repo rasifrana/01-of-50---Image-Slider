@@ -1,3 +1,3 @@
 LIVE Project Link
 
-https://rasifrana.github.io/50-Projects-html-css-javascript/
+https://rasifrana.github.io/01-of-50---Image-Slider/
